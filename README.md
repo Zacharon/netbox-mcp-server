@@ -1,5 +1,13 @@
 # NetBox MCP Server
 
+<!-- public-floorplan:start -->
+## Explore the architecture
+
+[**Open the interactive Floorplan**](https://zacharon.github.io/Zacharon/floorplans/netbox-mcp-server.html) · [Standalone HTML file](docs/floorplan.html)
+
+A map of this repository’s public source at `8850301a`. Selected-entry overview; shows representative public files and package boundaries, not an exhaustive dependency or route inventory.
+<!-- public-floorplan:end -->
+
 > **⚠️ Breaking Change in v1.0.0**: The project structure has changed.
 > If upgrading from v0.1.0, update your configuration:
 > - Change `uv run server.py` to `uv run netbox-mcp-server`
